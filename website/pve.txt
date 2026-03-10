@@ -1,0 +1,21 @@
+De front end wordt responsive gemaakt voor desktop, tablet en telefoon.
+
+Main devices:
+
+Mobiel: 360 x 800
+Tablet: 768 x 1024
+Desktop: 1920 x 1080
+
+
+Breakpoints:
+
+Mobiel: tot 767px
+Tablet: vanaf 768px
+Desktop: vanaf 1024px
+
+
+Voor de layout gebruik ik:
+
+CSS Grid als kern en Flexbox voor dingen als navigeren op de website.
+
+De website wordt getest in Firefox en Edge.
